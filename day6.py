@@ -1,0 +1,1 @@
+print(f"This is my day 6 of github practise")
